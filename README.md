@@ -8,6 +8,6 @@
 <h2>Skills</h2>
 
 - 🌐 HTML | CSS | JavaScript
-- 💻 C# | C++ | Python 
+- 💻 C# | C++ 
 - 🛢 MySQL  
 - 🔧 Visual Studio Code | Git
