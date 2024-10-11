@@ -2,13 +2,13 @@
 
 - Estudante de engenharia de software, 4º semestre.
 
-## Skills
+## 👨‍💻 Skills
 - 🌐 React | HTML | CSS | JavaScipt | nodeJS
 - 💻 C# | C++ | Java
 - 🛢  MySQL  
 - 🔧 Visual Studio Code | Git | PostMan
 
-## Contato
+## 📫 Contato
 - [Linkedin](https://www.linkedin.com/in/victor-ezaki/)
 - [E-mail](victorezaki19@gmail.com)
 - [GitHub](https://github.com/VictorEzaki)
