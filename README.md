@@ -15,6 +15,6 @@
   
  [![VictorEzaki's github stats](https://github-readme-stats.vercel.app/api?username=VictorEzaki&show_icons=true&&theme=radical&hide=["contribs","issues"])](https://github.com/VictorEzaki)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorezaki&hide_progress=true&&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorezaki&_progress=true&&theme=radical)
 
 
