@@ -3,7 +3,7 @@
 - Estudante de engenharia de software, 4º semestre.
 
 ## 👨‍💻 Skills
-- 🌐 React | HTML | CSS | JavaScipt | nodeJS
+- 🌐 React | HTML | CSS | JavaScipt | nodeJS | PHP
 - 💻 C# | C++ | Java
 - 🛢  MySQL  
 - 🔧 Visual Studio Code | Git | PostMan
