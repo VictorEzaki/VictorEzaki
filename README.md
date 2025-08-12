@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a) ao meu GitHub - @VictorEzaki 👋
 
-- Estudante de engenharia de software, 4º semestre.
+- Estudante de análise e desenvolvimento de sistemas, 2º semestre.
 
 ## 👨‍💻 Skills
 - 🌐 React | HTML | CSS | JavaScipt | nodeJS | PHP
